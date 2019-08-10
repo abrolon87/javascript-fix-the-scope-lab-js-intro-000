@@ -31,5 +31,3 @@ function funkyFunction() {
   return theFunk
 }
     }
-
-
